@@ -1,7 +1,7 @@
 #![allow(dead_code)]
 
 mod prelude; 
-mod day1; use day1 as day;
+mod day2; use day2 as day;
 use anyhow::Result;
 
 fn main() -> Result<()> {
